@@ -6,8 +6,8 @@ baseurl:            ""
 url:                "https://zeeshanmunir.github.io"
 
 # Social Profiles
-github_username:    zeeshanmunir.github.io
-linkedin_username:  https://www.linkedin.com/in/zeeshan-munir-24ba08137/
+github_username:    zeeshanmunir
+linkedin_username:  zeeshan-munir-24ba08137
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
