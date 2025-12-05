@@ -1,16 +1,13 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Zeeshan Munir
+email:              zeeshan.munir307@gmail.com
+description:        Mobile App Developer | iOS | React Native
+author:             
 baseurl:            ""
 url:                "https://zeeshanmunir.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+github_username:    zeeshanmunir.github.io
+linkedin_username:  https://www.linkedin.com/in/zeeshan-munir-24ba08137/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
